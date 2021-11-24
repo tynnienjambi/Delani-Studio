@@ -20,7 +20,7 @@ A webpage for Delani studio which gives a detailed account about what they are, 
  > Open the ``index.html`` on your favorite browser.
 
  ## Behavior Driven Development
- 1. Under what we do, clicking on the image will toggle a paragraph explaining about the service.
+ 1. Clicking on the image will toggle a paragraph explaining about the service.
  2. Hovering over each image will show a white box with the name of the image.
  3. Upon entering your details and message in the contact-us form, the data will be sent to mailchimp and you will receive a confirmation message thanking you for contacting them.
  4. In case, submit form is entered without any values in the form, an alert message will pop-up telling you to put in valid information.
@@ -30,9 +30,10 @@ A webpage for Delani studio which gives a detailed account about what they are, 
   * Css
   * Javascript
   * Jquery
+  * Markdown
 ​
 ## Known Bugs
-* I haven't encountered any bugs.
+*No bugs encountered
 ​
 ## License
 > MIT License &copy 2021 Tinisha.N.Kamau 
