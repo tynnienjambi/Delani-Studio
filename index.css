@@ -1,0 +1,133 @@
+body{
+  overflow-x: hidden;
+}
+.container-full{
+  background-image: url(img/logo.png);
+  background-position: center;
+  text-align:center;
+  height: auto;
+  background-size: cover;
+  /* padding-top:25%; */
+  text-decoration-color: white;
+}
+.landing{
+padding-top: 20%;
+}
+
+#mouse{
+  padding-top: 15%;
+  padding-bottom: 1%;
+}
+.aboutUs{
+padding-top:5%;
+padding-bottom: 3%;
+text-align: center;
+font-family: 'Yantramanav' ,sans-serif;
+font-size: 16px;
+}
+.landing h1{
+  font-weight: 600;
+  font-size: 45px;
+}
+.services{
+  background-image: url("../images/s_image.jpg");
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 7%;
+
+}
+#whatWeDo h2{
+  padding-top: 3%;
+}
+.overlay{
+  background-color: black;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 90%;
+}
+.work-image{
+  position: relative;
+
+}
+.wonger{
+  width: 80%;
+  height: 80%;
+  border: 2px solid #fff;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.wonger h1{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30%;
+  font-style:oblique;
+
+}
+#form{
+  background-image: url("../images/c_image.jpg");
+}
+.input{
+  display: inline;
+
+}
+#form input{
+  width:35%;
+  background-color: transparent;
+
+}
+#name{
+  margin-left: 12%;
+  color :white;
+}
+#email{
+  margin-left:5%;
+  color: white;
+}
+#form textarea{
+  background-color: transparent;
+  color: white;
+}
+#email::placeholder{
+  color: white;
+}
+
+#name::placeholder{
+  color: white;
+}
+textarea::placeholder{
+  color: white;
+}
+.icon{
+  padding-left: 20px;
+}
+#design{
+  display: none;
+}
+#development{
+  display: none;
+}
+#product-mgt{
+  display: none;
+}
+.img1{
+
+}
+.work1-overlay,.work2-overlay,.work3-overlay,.work4-overlay,.work5-overlay,.work6-overlay,.work7-overlay,.work8-overlay {
+    display: none;
+    background-color: black;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 90%;
+
+}
+#firts{
+  background-image: url(/h_img.jpg);
+}
+.container-full{
+  background-image: url(img/h_img.jpg);
+}
